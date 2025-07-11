@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "เรียนรู้ React Components",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "ทำความเข้าใจกับ React Hooks",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "สร้าง Component สำหรับ Todo Item",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "เชื่อมต่อ useFetch กับ Mock API",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "title": "Implement ฟังก์ชัน Add Todo",
+      "completed": false
+    },
+    {
+      "id": "6",
+      "title": "Implement ฟังก์ชัน Toggle Completed",
+      "completed": false
+    },
+    {
+      "id": "7",
+      "title": "Implement ฟังก์ชัน Delete Todo",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "title": "ทดสอบการทำงานของ CRUD",
+      "completed": true
+    },
+    {
+      "id": "9",
+      "title": "ปรับแต่ง UI ให้สวยงาม",
+      "completed": false
+    },
+    {
+      "id": "10",
+      "title": "เพิ่ม Validation สำหรับ Input ใหม่",
+      "completed": false
+    }
+  ]
+}
