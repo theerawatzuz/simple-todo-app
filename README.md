@@ -58,3 +58,4 @@
 - `src/hooks/` — Custom hooks for API
 - `src/types/` — TypeScript types
 - `src/mock/` — Mock data
+- `src/services/` — All of service (like httpStatus)
